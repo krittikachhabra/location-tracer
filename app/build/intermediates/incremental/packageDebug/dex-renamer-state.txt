@@ -1,0 +1,7 @@
+#Sun Jun 03 12:58:57 IST 2018
+base.0=E\:\\hikerswatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86a20c700276579987010f1260039a53f157a740
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\hikerswatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d75131de6f36c8a71e2161019befe5d4f039400\\classes.dex
+base.1=E\:\\hikerswatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d75131de6f36c8a71e2161019befe5d4f039400
+file.0=E\:\\hikerswatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_86a20c700276579987010f1260039a53f157a740\\classes.dex

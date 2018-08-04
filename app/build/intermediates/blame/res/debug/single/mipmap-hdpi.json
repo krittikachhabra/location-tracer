@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\hikerswatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\hikerswatch\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\hikerswatch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\hikerswatch\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
